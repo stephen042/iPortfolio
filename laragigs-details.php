@@ -66,7 +66,7 @@
                 <li><strong>Category</strong>: Web design</li>
                 <li><strong>Client</strong>: Personal Project</li>
                 <li><strong>Project date</strong>: March, 2021</li>
-                <li><strong>Project URL</strong>: <a href="https://github.com/stephen042/main-jumia-clone">Github Repo</a></li>
+                <li><strong>Project URL</strong>: <a href="https://github.com/stephen042/iPortfolio.git">Github Repo</a></li>
               </ul>
             </div>
             <div class="portfolio-description">
