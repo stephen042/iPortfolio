@@ -357,7 +357,7 @@
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
                 <!-- <p>surulere, Lagos State, Nigeria</p> -->
-                <p>Tonimas PH/Enugu Expres Way, osisioma Ngwa, Abia State, Nigeria</p>
+                <p>112 oshogbo street Aguda, surulere, lagos State, Nigeria</p>
               </div>
 
               <div class="email">
