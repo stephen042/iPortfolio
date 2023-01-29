@@ -46,7 +46,7 @@
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app" >
+          <div class="col-lg-4 col-md-6 portfolio-item filter-offline" >
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/laragigs.png" class="img-fluid" alt="">
               <div class="portfolio-links">
