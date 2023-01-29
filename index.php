@@ -163,9 +163,10 @@
               <div class="col-lg-6">
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>20 october 2001</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>stephenmakuo8@gmail.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+234 08112011414, 09032035127</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Cities:</strong> <span>Lagos, Nigeria / Abia, Nigeria</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Origin:</strong> <span>Uwani, umumba ndi agu, Eze Agu LGA, Enugu State, Nigeria</span></li>
                 </ul>
               </div>
               <div class="col-lg-6">
@@ -302,7 +303,7 @@
               <p>Obtained a Distinction</p>
             </div>
             <div class="resume-item">
-              <h4>Advance Wed developer Degree</h4>
+              <h4>Advance web developer Degree</h4>
               <h5>2021 "feb - may"</h5>
               <p><em>Aptech Computer Education, Enugu, Nigeria</em></p>
               <p></p>
