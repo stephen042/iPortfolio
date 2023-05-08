@@ -324,10 +324,22 @@
             </div>
             <div class="resume-item">
               <h4>Private web tutor</h4>
-              <h5>2022 -update</h5>
+              <h5>2022 - update</h5>
               <p><em>Remote</em></p>
               <ul>
-                <li>Tutoring entry web developers from social media</li>
+                <li>Tutoring entry web developers</li>
+                <li>I have tutored at least 8 students</li>
+                <!-- <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
+                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
+                <li>Created 4+ design presentations and proposals a month for clients and account managers</li> -->
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Web Application Maintenance and debugging</h4>
+              <h5>2023 - update</h5>
+              <p><em>Remote</em></p>
+              <ul>
+                <li>Web Application Maintenance and debugging for Bestschoolpages Ltd website <code>(occasionally)</code> </li>
                 <!-- <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
                 <li>Recommended and consulted with clients on the most appropriate graphic design</li>
                 <li>Created 4+ design presentations and proposals a month for clients and account managers</li> -->
