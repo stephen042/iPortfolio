@@ -18,7 +18,7 @@
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
       <h1>Ani Stephen</h1>
-      <p>I'm <span class="typed" data-typed-items="an Advance Web Developer,a Freelancer"></span></p>
+      <p>I'm <span class="typed" data-typed-items="an Advance Web Developer, a Laravel Developer ,a Backend Engineer "></span></p>
     </div>
   </section><!-- End Hero -->
 
@@ -76,15 +76,17 @@
             </div>
           </div>
 
-          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web" >
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/plane2.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/plane3.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="plane.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
-          </div> -->
+          </div>
+
+
       <!-- 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
@@ -150,7 +152,7 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <p>"I'm a web developer with a focus on the LAMP stack, but still exploring other technologies and frameworks that catch my interest! like solidity and rust. <i>'<u>I FOCUS MAINLY ON DATA MANIPULATION (Back-end)</u>'</i>.  If you're looking for a developer to add to your team, I'd love to hear from you!"</p>
+          <p>"Dedicated PHP Laravel developer with 3 years + of experience in crafting robust web applications and software solutions. Good knowledge in livewire and other aspects of the Laravel framework, I am passionate about delivering efficient, scalable, and high-performance web applications. Seeking a challenging role where I can contribute my expertise to develop innovative solutions. If you're looking for a developer to add to your team, I'd love to hear from you"</p>
         </div>
 
         <div class="row">
@@ -165,7 +167,7 @@
                   <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>20 october 2001</span></li>
                   
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+234 08112011414, 09032035127</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Cities:</strong> <span>Lagos, Nigeria / Abia, Nigeria</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Cities:</strong> <span>Lagos, Nigeria / Abia, Nigeria / Delta, Nigeria</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Origin:</strong> <span>Uwani, umumba ndi agu, Eze Agu LGA, Enugu State, Nigeria</span></li>
                 </ul>
               </div>
@@ -246,9 +248,9 @@
             </div>
 
             <div class="progress">
-              <span class="skill">Laravel <i class="val">70%</i></span>
+              <span class="skill">Laravel <i class="val">79%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="79" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
@@ -304,7 +306,7 @@
             </div>
             <div class="resume-item">
               <h4>Advance web developer Degree</h4>
-              <h5>2021 "feb - may"</h5>
+              <h5>2021 "feb - June"</h5>
               <p><em>Aptech Computer Education, Enugu, Nigeria</em></p>
               <p></p>
             </div>
@@ -340,6 +342,7 @@
               <p><em>Remote</em></p>
               <ul>
                 <li>Web Application Maintenance and debugging for Bestschoolpages Ltd website <code>(occasionally)</code> </li>
+                <li>Created Plan Nigeria with Laravel and Livewire for Data Analysis purpose. <code>LARAVEL & LIVEWIRE project</code>  </li>
                 <!-- <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
                 <li>Recommended and consulted with clients on the most appropriate graphic design</li>
                 <li>Created 4+ design presentations and proposals a month for clients and account managers</li> -->

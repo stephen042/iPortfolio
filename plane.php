@@ -43,15 +43,15 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/bestschools.png" alt="">
+                  <img src="assets/img/portfolio/plane1.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/bestschools1.png" alt="">
+                  <img src="assets/img/portfolio/plane2.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/bestschool2.png" alt="">
+                  <img src="assets/img/portfolio/plane3.png" alt="">
                 </div>
 
               </div>
@@ -65,19 +65,14 @@
               <ul>
                 <li><strong>Category</strong>: Web App</li>
                 <li><strong>Client</strong>: Mr Jose</li>
-                <li><strong>Project date</strong>: january, 2023</li>
-                <li><strong>Project URL</strong>: <a href="https://www.bestschoolpage.com.ng/">bestschoolpages.com.ng</a></li>
+                <li><strong>Project date</strong>: Sept, 2023</li>
+                <li><strong>Project URL</strong>: <a href="https://planenigeria.online/">PLANE Nigeria Routine Data Management Information System</a></li>
               </ul>
             </div>
             <div class="portfolio-description">
-              <h2>bestschool details</h2>
+              <h2>"PLANE Nigeria Routine Data Management Information System" Details:</h2>
               <p>
-              bestschoolpages.com.ng  is an Intensive school management system that covers all the affairs of the various school registered under it . it covers the following affairs :
-              <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Payment:</strong> <span>School Fees and other tuition</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Principal Remarks:</strong> <span>Principal Remarks on Result and Teachers etc</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Staffs Different dashboard:</strong> <span>every staff has an assigned role and can only access information according to his or her role. etc</span></li>
-                </ul>
+                PLANE Nigeria is a Larevel Livewire project design for researchers to keep record of there researches with the four Quarters of a year . It also keeps record of events attended during the cause of the researches.
               </p>
             </div>
           </div>
